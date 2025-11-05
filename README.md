@@ -63,10 +63,3 @@ Estoy **abierto a colaborar** en proyectos que busquen calidad técnica, entrega
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zapata-m/)
 
 ---
-
-## 📊 GitHub Stats
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=dfzm&show_icons=true&theme=radical&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dfzm&theme=radical&layout=compact)
-
-
