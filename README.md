@@ -1,7 +1,7 @@
 <h1 align="center">Hola , Soy Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
-# Solucionador Digital
+# Desarrollador Frontend + UX
 
 Más que un desarrollador web, soy un **creador de soluciones digitales funcionales, escalables y centradas en el usuario**.  
 Colaboro con agencias y equipos que necesitan ir más allá del diseño: construir experiencias reales que generen valor.
@@ -68,3 +68,5 @@ Estoy **abierto a colaborar** en proyectos que busquen calidad técnica, entrega
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=dfzm&show_icons=true&theme=radical&count_private=true)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dfzm&theme=radical&layout=compact)
+
+
