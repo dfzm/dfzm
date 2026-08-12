@@ -7,7 +7,7 @@ Más que un desarrollador web, soy un **creador de soluciones digitales funciona
 Colaboro con agencias y equipos que necesitan ir más allá del diseño: construir experiencias reales que generen valor.
 
 🔗 [Visita mi sitio web](https://dzionix.com/colaboremos/)  
-💼 +5 años construyendo productos digitales con WordPress, React, APIs y herramientas de IA
+💼 +5 años construyendo productos digitales con React, NextJS, APIs, WordPress, PrestaShop y herramientas de IA
 
 <h4> Languages </h4>
 <span> 
@@ -38,18 +38,21 @@ Colaboro con agencias y equipos que necesitan ir más allá del diseño: constru
 ## 🛠️ Tecnologías & Servicios
 
 ### Desarrollo Web
-- HTML5, CSS3, JavaScript, React
-- REST APIs y componentes reutilizables
+- HTML5, CSS3, JavaScript, React, NextJS
+- REST APIs e integraciones
 - WordPress Headless
+- Prestashop
 
 ### Diseño UX / UI
-- UX/UI (Figma, wireframes, accesibilidad)
+- Design System / Design Thinking
+- Figma, wireframes, accesibilidad
 - Adobe Creative Suite (Photoshop, Illustrator, Premiere)
 
 ### Inteligencia Artificial
-- Chatbots personalizados
+- Implementaciones de software
 - Automatización con IA
-- Integración de modelos de IA con CRMs y bases de datos
+- Integración de modelos de IA con CRM, CMS y bases de datos
+- Chatbots personalizados
 
 ---
 
@@ -58,7 +61,7 @@ Colaboro con agencias y equipos que necesitan ir más allá del diseño: constru
 Estoy **abierto a colaborar** en proyectos que busquen calidad técnica, entrega responsable y enfoque estratégico.
 
 📩 Escríbeme: [danielzapatam93@gmail.com](mailto:danielzapatam93@gmail.com)  
-🌐 [dzionix.com](https://dzionix.com/colaboremos/)  
+🌐 [portfolio.dzionix.com](https://portfolio.dzionix.com/)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zapata-m/)
 
